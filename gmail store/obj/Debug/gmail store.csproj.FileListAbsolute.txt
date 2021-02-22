@@ -1,0 +1,34 @@
+D:\gmail-store.net\gmail store\gmail store\bin\Debug\credentials.json
+D:\gmail-store.net\gmail store\gmail store\bin\Debug\gmail store.exe.config
+D:\gmail-store.net\gmail store\gmail store\bin\Debug\gmail store.exe
+D:\gmail-store.net\gmail store\gmail store\bin\Debug\gmail store.pdb
+D:\gmail-store.net\gmail store\gmail store\bin\Debug\Google.Apis.Auth.dll
+D:\gmail-store.net\gmail store\gmail store\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\gmail-store.net\gmail store\gmail store\bin\Debug\Google.Apis.Core.dll
+D:\gmail-store.net\gmail store\gmail store\bin\Debug\Google.Apis.dll
+D:\gmail-store.net\gmail store\gmail store\bin\Debug\Google.Apis.Gmail.v1.dll
+D:\gmail-store.net\gmail store\gmail store\bin\Debug\Google.Apis.PlatformServices.dll
+D:\gmail-store.net\gmail store\gmail store\bin\Debug\Newtonsoft.Json.dll
+D:\gmail-store.net\gmail store\gmail store\bin\Debug\Google.Apis.pdb
+D:\gmail-store.net\gmail store\gmail store\bin\Debug\Google.Apis.xml
+D:\gmail-store.net\gmail store\gmail store\bin\Debug\Google.Apis.Auth.pdb
+D:\gmail-store.net\gmail store\gmail store\bin\Debug\Google.Apis.Auth.xml
+D:\gmail-store.net\gmail store\gmail store\bin\Debug\Google.Apis.Core.pdb
+D:\gmail-store.net\gmail store\gmail store\bin\Debug\Google.Apis.Core.xml
+D:\gmail-store.net\gmail store\gmail store\bin\Debug\Google.Apis.Gmail.v1.pdb
+D:\gmail-store.net\gmail store\gmail store\bin\Debug\Google.Apis.Gmail.v1.xml
+D:\gmail-store.net\gmail store\gmail store\bin\Debug\Newtonsoft.Json.xml
+D:\gmail-store.net\gmail store\gmail store\obj\Debug\gmail store.csprojAssemblyReference.cache
+D:\gmail-store.net\gmail store\gmail store\obj\Debug\gmail store.csproj.CoreCompileInputs.cache
+D:\gmail-store.net\gmail store\gmail store\obj\Debug\gmail store.csproj.CopyComplete
+D:\gmail-store.net\gmail store\gmail store\obj\Debug\gmail store.exe
+D:\gmail-store.net\gmail store\gmail store\obj\Debug\gmail store.pdb
+D:\gmail-store.net\gmail store\gmail store\obj\Debug\gmail store.csproj.ResolveComReference.cache
+D:\gmail-store.net\gmail store\gmail store\bin\Debug\ClosedXML.dll
+D:\gmail-store.net\gmail store\gmail store\bin\Debug\DocumentFormat.OpenXml.dll
+D:\gmail-store.net\gmail store\gmail store\bin\Debug\ExcelNumberFormat.dll
+D:\gmail-store.net\gmail store\gmail store\bin\Debug\System.IO.Packaging.dll
+D:\gmail-store.net\gmail store\gmail store\bin\Debug\ClosedXML.pdb
+D:\gmail-store.net\gmail store\gmail store\bin\Debug\ClosedXML.xml
+D:\gmail-store.net\gmail store\gmail store\bin\Debug\DocumentFormat.OpenXml.xml
+D:\gmail-store.net\gmail store\gmail store\bin\Debug\ExcelNumberFormat.xml
